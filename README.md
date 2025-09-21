@@ -5,9 +5,9 @@ Milyen jó lenne többet megtudni a kurzus tartalmáról!
 Felsorolás formájában:
 
 A tárgy lényeges pontjai: 
-- git ismeretek
-- HTML kód készítés
-- WEBGIS ismertetés
-- Javascript
-- Internet alapismeretek
-- .....
+git ismeretek
+HTML kód készítés
+WEBGIS ismertetés
+Javascript
+Internet alapismeretek
+stb.....
