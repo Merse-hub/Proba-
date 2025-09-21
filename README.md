@@ -1,6 +1,6 @@
 # Proba_1- Terinformatika kurzus 2025
 Térinformatikai alkalmazások című kurzus próbája 2025
-Milyen jó lenne többet megtudni a kurzus tartalmáról!
+Milyen jó lenne többet megtudni a kurzus tartalmáról?
 
 Felsorolás formájában:
 
