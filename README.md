@@ -2,7 +2,7 @@
 Térinformatikai alkalmazások című kurzus próbája 2025
 Milyen jó lenne többet megtudni a kurzus tartalmáról!
 
-Felsorolás formájában:
+Felsorolás formájában: Merse
 
 A tárgy lényeges pontjai: 
 - git ismeretek
