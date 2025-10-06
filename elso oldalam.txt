@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<!-- Az oldal nyitó tagaja je-->
+<html>
+<!-- Fejléc -->
+<head>
+<!-- Az oldal törzse -->
+<body>
+<!-- Címsorl -->
+<h1> Bemutatkozás</h1>
+<!-- Magjelenő szöveg-->
+<p> Merse </p>
+<h1>Vagyok 21 éves, Másod éves fölvmérő hallgató</h1>
+<h2>Szeretem a sört</h2>
+<!-- Lista rendezetlen -->
+<ul>
+<li>Fociak </li>
+<li>Lustálkodás </li>
+</ul>
+<h2> Firmáim</h2>
+<!-- Lista rendezett-->
+<ol>
+<li> Poncsák Panna a. Sörpilla</li>
+<li> Jánosi Mátyás a. Láma</li>
+</ol>
+</body>
+</html>
